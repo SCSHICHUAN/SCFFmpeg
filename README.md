@@ -1,4 +1,4 @@
-# creat a framework project
+# Creat a framework project
    #### Xcode setings :
     1.Selected->TARGETS->Build Setings (search:Other link)->Other Linker Flags
       add: item 
